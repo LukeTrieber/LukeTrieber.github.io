@@ -1,5 +1,6 @@
 ---
-layout: default
+title: GitHub Portfolio Assignment
+description: Module 3 Homework
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
