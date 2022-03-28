@@ -7,7 +7,7 @@ description: Module 3 Homework
 
 This is the content I've developed for my courses
 
-- [Time Series Decomposition](timeseries/index.md)
+- [Sample folder](timeseries/index.md)
 
 This is a poor place for a link
 
