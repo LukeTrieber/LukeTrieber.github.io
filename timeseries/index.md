@@ -1,8 +1,8 @@
 ---
-title: Time Series
-Description: Course content
+Title: Course Documents
+Description: Items
 ---
 
-Here is a Time Series Decompostion I use in my CTBA course
+Here is a sample downloads
 - [Sample html](Sample.html)
 - [Sample ipynb](Sample.ipynb)
